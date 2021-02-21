@@ -67,13 +67,14 @@ a {
 p {
     font-size: 16px;
 }
+
 /* Content Images */
-.left-image {
+.left-content-image {
     float: left;
     margin-right: 25px;
 }
 
-.right-image {
+.right-content-image {
     float: right;
     margin-left: 25px;
 }
@@ -87,7 +88,7 @@ p {
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
-    height: 313px;
+    height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
@@ -142,6 +143,7 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
+/* Eng of Footer and Copyright */
