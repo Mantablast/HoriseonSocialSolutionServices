@@ -6,10 +6,14 @@
 -The <title> tag was changed to be the name of the company and shows in full when the mouse hovers over the tab
 -Indenting of parent / children elements and spacing were cleaned up throughout both index.html and style.css for the next developer who works on this project.
 -Commented descriptions were placed throughout index.html and style.css documents for easier code reading
--Detailed descriptions were placed in image alt attributes for screen readers
+-Detailed descriptions were placed in image alt attributes for assistive devices
 -I felt that the .float-left and .float-right classes were somewhat vague so I renamed them to 
 .left-content-image and .right-content-image as they were only styling the content images
 -The .hero class was changed to .hero-image to be more descriptive
 -I deleted an unnecessary "Developer" folder to ensure proper loading and browser reading of index.html and style.css
 -There were pproximately three containers were improperly contained as <div> tags with classes which where renamed with proper semantics (footer, nav, aside)
 
+Live URL:
+https://missaimeejay.github.io/HoriseonSocialSolutionServices/
+Github Repository URL: https://github.com/MissAimeeJay/HoriseonSocialSolutionServices
+![Screenshot](./ProjectScreenshot.png)
