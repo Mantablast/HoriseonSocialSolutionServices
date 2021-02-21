@@ -1,5 +1,13 @@
 # Code Refactor Starter Code
--To maintain sequential order of heads, the H2 header in <footer> was changed to H4
+Greetings Horiseon Social Solution Services,
+
+I am excited to present back to you, a completed request for accessibility optimization.
+I have put in time and care to ensure your page meets all current accessibility stardards and to make sure
+all requirements listed in your acceptence criteria were met.  Below you will find a summarized list of changes, a live URL displaying those changes and an URL to the repository containing your files.
+
+Thank you for this opportunity,
+-Aimee Jesso
+
 -Search Engine Optimization nav-bar id was fixed to properly navigate to the SEO in content section
 -<head> container was moved above the <body> container to follow logical HTML structure
 -Some meta tag information appeared to be missing.  Meta data was fixed so the browser would be properly, information could be sent to accessibility devices and instruction would then be available for the browser to load the content
@@ -12,6 +20,7 @@
 -The .hero class was changed to .hero-image to be more descriptive
 -I deleted an unnecessary "Developer" folder to ensure proper loading and browser reading of index.html and style.css
 -There were pproximately three containers were improperly contained as <div> tags with classes which where renamed with proper semantics (footer, nav, aside)
+-To maintain sequential order of headers, the H2 header in <footer> was changed to H4
 
 Live URL:
 https://missaimeejay.github.io/HoriseonSocialSolutionServices/
