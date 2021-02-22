@@ -85,7 +85,7 @@ p {
     margin-left: 20px;
 }
 
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+.main-selling-points {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -117,7 +117,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead, .benefit-brand, .benefit-cost {
+.benefit-feature {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -146,4 +146,5 @@ footer {
 footer h4 {
     font-size: 20px;
 }
+
 /* Eng of Footer and Copyright */

@@ -9,7 +9,6 @@ Thank you for this opportunity,
 -Aimee Jesso
 
 -Search Engine Optimization nav-bar id was fixed to properly navigate to the SEO in content section
--<head> container was moved above the <body> container to follow logical HTML structure
 -Some meta tag information appeared to be missing.  Meta data was fixed so the browser would be properly, information could be sent to accessibility devices and instruction would then be available for the browser to load the content
 -The <title> tag was changed to be the name of the company and shows in full when the mouse hovers over the tab
 -Indenting of parent / children elements and spacing were cleaned up throughout both index.html and style.css for the next developer who works on this project.
@@ -19,10 +18,11 @@ Thank you for this opportunity,
 .left-content-image and .right-content-image as they were only styling the content images
 -The .hero class was changed to .hero-image to be more descriptive
 -I deleted an unnecessary "Developer" folder to ensure proper loading and browser reading of index.html and style.css
--There were pproximately three containers were improperly contained as <div> tags with classes which where renamed with proper semantics (footer, nav, aside)
+-There were approximately three containers were improperly contained as <div> tags with classes which where renamed with proper semantics (footer, nav, aside)
 -To maintain sequential order of headers, the H2 header in <footer> was changed to H4
+-Changed the contents and benefits div classes to consolidate CSS styling
 
 Live URL:
 https://missaimeejay.github.io/HoriseonSocialSolutionServices/
 Github Repository URL: https://github.com/MissAimeeJay/HoriseonSocialSolutionServices
-![Screenshot](./ProjectScreenshot.png)
+![Screenshot](./assets/images/ProjectScreenshot.png)
