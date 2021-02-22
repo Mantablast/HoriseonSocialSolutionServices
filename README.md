@@ -20,7 +20,7 @@ Thank you for this opportunity,
 -I deleted an unnecessary "Developer" folder to ensure proper loading and browser reading of index.html and style.css
 -There were approximately three containers were improperly contained as <div> tags with classes which where renamed with proper semantics (footer, nav, aside)
 -To maintain sequential order of headers, the H2 header in <footer> was changed to H4
--Changed the contents and benefits div classes to consolidate CSS styling
+-Some CSS Styles were repeated throughout the Benefits and Content containers which are now consolidated and fewer CSS style lines now exist
 
 Live URL:
 https://missaimeejay.github.io/HoriseonSocialSolutionServices/
