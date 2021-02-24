@@ -1,4 +1,17 @@
-# Code Refactor Starter Code
+# Horiseon Social Solution Services
+
+## Purpose
+A website that offers SEO optimizatiom, online reputation management and social media marketing.
+
+## Built With
+* HTML
+* CSS
+
+## Contribution
+Optimized with ❤️ by Aimee Jesso
+
+### ©️2019 Horiseon Social Solution Services, Inc.
+# Code Refactor Challenge
 Greetings Horiseon Social Solution Services,
 
 I am excited to present back to you, a completed request for accessibility optimization.
